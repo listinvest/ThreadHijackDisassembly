@@ -1,2 +1,2 @@
 # ThreadHijackDisassembly
-Disassembled raw injector code that uses the thread hijacking method
+Disassembled x86 raw injector code that uses the thread hijacking method
